@@ -1,2 +1,3 @@
 
-test gpt
+test gpt dert degil
+git add
