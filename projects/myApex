@@ -1,0 +1,5 @@
+Integer x=12;
+Integer y=8;
+
+Integer sum = x+y;
+System.debug('Sum of' + x + 'and' + y + 'is' + sum );
